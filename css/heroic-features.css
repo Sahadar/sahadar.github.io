@@ -19,3 +19,15 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.thumbnail .logo {
+	width: 100px;
+}
+
+.thumbnail h3 {
+	margin-top: 10px;
+}
+
+.thumbnail .test {
+	margin-bottom: 10px;
+}
